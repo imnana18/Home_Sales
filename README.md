@@ -8,7 +8,7 @@ This project involved using `SparkSQL` to perform various operations on home sal
 
 ### Files
 
-Downloaded the project files from [Module 22 Challenge files](https://static.bc-edx.com/data/dl-1-2/m22/lms/starter/Starter_Code.zip).
+Downloaded project files from [Module 22 Challenge](https://static.bc-edx.com/data/dl-1-2/m22/lms/starter/Starter_Code.zip).
 
 
 ### Process

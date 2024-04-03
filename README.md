@@ -1,7 +1,7 @@
-# Home Sales Analysis 
+# Home Sales Analysis 🏠
 
 
-## Assignment Overview
+## Overview
 
 This project involved using `SparkSQL` to perform various operations on home sales data such as creating `temporary views`, `partitioning data`, `caching and uncaching` temporary tables, saving and viewing `parquet` files, and running queries to answer questions about the home sales DataFrame.
 
@@ -9,7 +9,7 @@ This project involved using `SparkSQL` to perform various operations on home sal
 ### Files
 
 Downloaded the following files to help with the assignment:
-- Module 22 Challenge files [Link to external site](#)
+- [Module 22 Challenge files](https://static.bc-edx.com/data/dl-1-2/m22/lms/starter/Starter_Code.zip)
 
 
 ### Process
